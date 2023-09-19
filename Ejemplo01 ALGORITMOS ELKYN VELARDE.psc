@@ -2,8 +2,8 @@ Algoritmo Ejemplo01
 	definir nombre como caracter
 	definir apellido como caracter
 	Definir pago1 Como Entero
-	nombre = "sergio"
-	apellido = "garcia"
+	nombre = "Elkyn"
+	apellido = "Velarde"
 	pago1 = 2500
 	pago2 = 2300
 	total = pago1 + pago2
